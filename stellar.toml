@@ -1,0 +1,10 @@
+# Federation service provided by StellarID.io
+FEDERATION_SERVER="https://stellarid.io/federation/"
+[[CURRENCIES]]
+code = "APIS"
+conditions = "APIS Tokens are issued when investments are made"
+desc = "Investment Token for the Apis Token Fund"
+display_decimals = 2
+image = "https://www.apiscapitalfunds.com/apispng.png"
+issuer = "GCYKQ2627BPKMSUZJK64GPYVKD4TRNACP45X6B754PR6TCYJXCHGUTWB"
+name = "APIS TOKEN"
